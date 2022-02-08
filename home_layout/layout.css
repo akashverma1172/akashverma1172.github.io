@@ -40,7 +40,7 @@ header{
 .nav-link-space{
     flex: 4;
 }
-nav{
+.nav{
     flex: 3;
 }
 .cart{
@@ -55,7 +55,6 @@ nav{
 }
 .cta{
     padding: 50px 0px 0px 0px;
-
 }
 
 .cta-select{
@@ -84,8 +83,6 @@ nav{
 .cta-add:hover{
     background-color: #d171c8;
 }
-
-
 .presentation{
     display: flex;
     width: 90%;
